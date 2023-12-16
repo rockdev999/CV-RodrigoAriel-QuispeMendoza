@@ -7,6 +7,7 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
 #container {
   height: 100vh;
   width: 100vw;
@@ -14,8 +15,9 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
 header {
-  background-color: rgb(253, 252, 215, 0.8);
+  background-color: rgba(83, 12, 225, 0.8);
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -24,6 +26,7 @@ header {
   margin: 20px;
   padding: 15px;
 }
+
 #image-profile {
   weight: 150px;
   height: 150px;
