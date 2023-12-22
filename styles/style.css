@@ -29,7 +29,7 @@ header {
 }
 
 #image-profile {
-  weight: 150px;
+  width: 150px;
   height: 150px;
   border-radius: 100%;
   border: 1px solid black;
